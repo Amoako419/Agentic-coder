@@ -1,13 +1,7 @@
-# Personal Shopping Assistant
+# Agentic Coder
 
-This project is an AI-powered personal shopping assistant built using the Google Agent Development Kit (ADK). The assistant helps users find products, search for them on the web, compare prices, and make recommendations.
+This project is an AI-powered coding assistant built using the Google Agent Development Kit (ADK). The assistant helps users debug and implement ideas seamlessly into their code.
 
-## Features
-
-- **Web Search**: Uses Google Search to find products online.
-- **Price Comparison**: Compares prices across different sources.
-- **Recommendations**: Provides personalized recommendations based on search results.
-- **Interactive Agent**: Built with a conversational interface for seamless interaction.
 
 ## Project Structure
 
@@ -56,7 +50,7 @@ This project is an AI-powered personal shopping assistant built using the Google
 
 5. Run the application:
    ```bash
-   python multi_tool_agent/agent.py
+   adk web
    ```
 
 ## Usage
