@@ -29,8 +29,8 @@ This project is an AI-powered coding assistant built using the Google Agent Deve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amoako419/personal-shopping-assistant.git
-   cd personal-shopping-assistant
+   git clone https://github.com/amoako419/agentic-coder.git
+   cd agentic-coder
    ```
 
 2. Set up a virtual environment:
